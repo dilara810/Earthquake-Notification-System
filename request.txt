@@ -1,0 +1,12 @@
+Query magnitude > 5.1
+Query depth > 3.1
+Query magnitude < 6.0
+Query depth = 25.2
+Query location = BOLU
+Query date = 19.03.2023
+Query date = 11.03.2023
+Add MALATYA 11.03.2023 00:44:51 Magnitude: 3.3 Depth: 5.0 km
+Query date = 11.03.2023
+Delete HATAY 19.03.2023 17:25:57 Magnitude: 3.2 Depth: 5.1 km
+Query date = 19.03.2023
+Query all
